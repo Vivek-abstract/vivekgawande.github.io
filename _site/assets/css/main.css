@@ -313,14 +313,12 @@ section {
   background: #0f0f89; }
   section h1 {
     text-align: center;
-    margin: 0px 0px 20px 0px; }
-    section h1 a {
-      color: #040454;
-      text-transform: uppercase;
-      font-size: 30px;
-      font-weight: 500; }
-      section h1 a:hover {
-        color: #040454; }
+    margin: 0px 0px 20px 0px;
+    padding-top: 30px;
+    color: #040454;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 500; }
   section .circle {
     border-radius: 50%;
     width: 150px;
@@ -365,13 +363,12 @@ section {
   margin-top: -46px; }
   .work h1 {
     text-align: center;
-    margin: 0px 0px 20px 0px; }
-    .work h1 a {
-      display: inline-block;
-      color: #300150;
-      text-transform: uppercase;
-      font-size: 30px;
-      font-weight: 500; }
+    margin: 0px 0px 20px 0px;
+    color: #300150;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 30px; }
   .work p {
     text-align: center;
     color: #41006d;
@@ -383,15 +380,12 @@ footer {
   margin-top: -46px; }
   footer h1 {
     text-align: center;
-    margin: 0px 0px 20px 0px; }
-    footer h1 a {
-      display: inline-block;
-      font-size: 30px;
-      color: #001f59;
-      text-transform: uppercase;
-      font-weight: 500; }
-      footer h1 a:hover {
-        color: #001f59; }
+    margin: 0px 0px 20px 0px;
+    font-size: 30px;
+    color: #001f59;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-top: 30px; }
   footer .footer {
     text-align: center; }
     footer .footer a {
